@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = paternel@gmail.com
+	name = patrice gerin
